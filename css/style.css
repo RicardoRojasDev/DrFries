@@ -139,7 +139,7 @@ a:focus {
     margin-top: 0;
     border: 0;
     border-radius: 0;
-    background: #f8f9fa;
+    background: #D90D0D;
 }
 
 @media (min-width: 992px) {
@@ -153,7 +153,7 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #ffffff !important;
+        background: #D90D0D !important;
     }
     
     .navbar .navbar-brand {
@@ -192,7 +192,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         padding: 15px;
-        background: #ffffff !important;
+        background: #D90D0D !important;
     }
     
     .navbar .navbar-brand {
