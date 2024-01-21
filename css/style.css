@@ -27,7 +27,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #719a0a;
+    color: #BF1523;
     outline: none;
     text-decoration: none;
 }
@@ -81,7 +81,7 @@ a:focus {
 }
 
 .back-to-top:hover {
-    background: #719a0a;
+    background: #BF1523;
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
@@ -119,7 +119,7 @@ a:focus {
 }
 
 .navbar .navbar-brand span {
-    color: #719a0a;
+    color: #BF1523;
 }
 
 .navbar .navbar-brand:hover {
@@ -295,12 +295,12 @@ a:focus {
 
 .carousel .carousel-btn .btn:last-child {
     margin-left: 10px;
-    background: #719a0a;
-    border-color: #719a0a;
+    background: #BF1523;
+    border-color: #BF1523;
 }
 
 .carousel .carousel-btn .btn:last-child:hover {
-    color: #719a0a;
+    color: #BF1523;
     background: transparent;
 }
 
@@ -430,7 +430,7 @@ a:focus {
 }
 
 .section-header p {
-    color: #719a0a;
+    color: #BF1523;
     margin-bottom: 5px;
     position: relative;
     font-size: 20px;
@@ -582,7 +582,7 @@ a:focus {
 }
 
 .food .food-item:hover i {
-    color: #719a0a;
+    color: #BF1523;
 }
 
 .food .food-item i::after {
@@ -600,7 +600,7 @@ a:focus {
 }
 
 .food .food-item:hover i::after {
-    border: 3px dotted #719a0a;
+    border: 3px dotted #BF1523;
     border-right: transparent;
     border-bottom: transparent;
 }
@@ -629,7 +629,7 @@ a:focus {
 .food .food-item a:hover::after {
     width: 100%;
     left: 0;
-    background: #719a0a;
+    background: #BF1523;
 }
 
 
@@ -836,11 +836,11 @@ a:focus {
 .feature .feature-item i {
     position: relative;
     display: block;
-    color: #719a0a;
+    color: #BF1523;
     font-size: 60px;
     line-height: 60px;
     margin-bottom: 15px;
-    background-image: linear-gradient(#719a0a, #fbaf32);
+    background-image: linear-gradient(#BF1523, #fbaf32);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -890,7 +890,7 @@ a:focus {
 .menu .menu-tab .nav.nav-pills .nav-link:hover,
 .menu .menu-tab .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background: #719a0a;
+    background: #BF1523;
 }
 
 .menu .menu-tab .tab-content {
@@ -1053,7 +1053,7 @@ a:focus {
 
 .team .team-social a:hover {
     color: #ffffff;
-    background: #719a0a;
+    background: #BF1523;
 }
 
 .team .team-item:hover .team-social {
@@ -1188,7 +1188,7 @@ a:focus {
 }
 
 .testimonial .owl-dot.active {
-    background: #719a0a;
+    background: #BF1523;
 }
 
 
@@ -1462,7 +1462,7 @@ a:focus {
 .single .related-slider .owl-nav .owl-prev:hover,
 .single .related-slider .owl-nav .owl-next:hover {
     color: #ffffff;
-    background: #719a0a;
+    background: #BF1523;
 }
 
 .single .single-comment {
@@ -1620,7 +1620,7 @@ a:focus {
 }
 
 .sidebar .search-widget .btn:hover {
-    color: #719a0a;
+    color: #BF1523;
 }
 
 .sidebar .sidebar-widget .recent-post {
@@ -1640,7 +1640,7 @@ a:focus {
 .sidebar .tab-post .nav.nav-pills .nav-link:hover,
 .sidebar .tab-post .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background: #719a0a;
+    background: #BF1523;
 }
 
 .sidebar .tab-post .tab-content {
@@ -1777,7 +1777,7 @@ a:focus {
 .contact .contact-text h3 {
     font-size: 18px;
     font-weight: 700;
-    color: #719a0a;
+    color: #BF1523;
 }
 
 .contact .contact-text p {
@@ -1793,7 +1793,7 @@ a:focus {
 }
 
 .contact .contact-social a:hover {
-    color: #719a0a;
+    color: #BF1523;
 }
 
 .contact .contact-form iframe {
@@ -1863,7 +1863,7 @@ a:focus {
     height: 2px;
     bottom: 0;
     left: 0;
-    background: #719a0a;
+    background: #BF1523;
 }
 
 .footer .footer-link a {
@@ -1913,7 +1913,7 @@ a:focus {
 }
 
 .footer .footer-social a:hover {
-    background: #719a0a;
+    background: #BF1523;
 }
 
 .footer .footer-social a:last-child {
@@ -1961,5 +1961,5 @@ a:focus {
 }
 
 .footer .copyright p a:hover {
-    color: #719a0a;
+    color: #BF1523;
 }
