@@ -98,6 +98,7 @@ a:focus {
     position: relative;
     transition: .5s;
     z-index: 999;
+    background-color: transparent;
 }
 
 .navbar.nav-sticky {
@@ -126,8 +127,7 @@ a:focus {
 .navbar .dropdown-menu {
     margin-top: 0;
     border: 0;
-    border-radius: 0;
-    background: #D90D0D;
+    background: #948e8e2f;
 }
 /* Pantallas Grandes Mas De Tablet */
 @media (min-width: 992px) {
@@ -185,7 +185,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         padding: 5px;
-        background: #ffffff00 !important;
+        background: transparent !important;
     }
     
     .navbar .navbar-brand {
@@ -210,8 +210,9 @@ a:focus {
     .logo {
         width: 80vw;
     }
-        
-    
+    .navbar.nav-sticky {
+        background: #D90D0D !important;
+    }
 }
 
 
