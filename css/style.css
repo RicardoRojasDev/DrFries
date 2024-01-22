@@ -184,12 +184,13 @@ a:focus {
 /* Pantallas Medianas Tablet y Celulares */
 @media (max-width: 991.98px) {   
     .navbar {
-        padding: 10px;
-        background: #ffffff !important;
+        padding: 5px;
+        background: #ffffff00 !important;
     }
     
     .navbar .navbar-brand {
         color: #ffffff;
+        text-align: center;
     }
     
     .navbar .navbar-nav {
