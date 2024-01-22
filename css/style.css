@@ -118,21 +118,9 @@ a:focus {
     
 }
 
-.navbar .navbar-brand span {
-    color: #ffffff;
-}
-
-.navbar .navbar-brand:hover {
-    color: #82fb32;
-}
-
-.navbar .navbar-brand:hover span {
-    color: #a600ff;
-}
-
 .navbar .navbar-brand img {
-    max-width: 100%;
-    max-height: 40px;
+
+    max-height: 50px;
 }
 
 .navbar .dropdown-menu {
@@ -157,11 +145,11 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #fbaf32;
+        color: #ffffff;
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #fbaf32;
+        color: #ffffff;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -175,7 +163,7 @@ a:focus {
     
     .navbar-light.nav-sticky .navbar-nav .nav-link,
     .navbar-light.nav-sticky .navbar-nav .nav-link:focus {
-        color: #fbaf32;
+        color: #ffffff;
     }
 
     .navbar-light .navbar-nav .nav-link:hover,
@@ -187,12 +175,17 @@ a:focus {
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
         color: #fbaf32;
     }
+
+    .navbar .navbar-brand img {
+
+        max-height: 50px;
+    }
 }
 /* Pantallas Medianas Tablet y Celulares */
 @media (max-width: 991.98px) {   
     .navbar {
-        padding: 15px;
-        background: #D90D0D !important;
+        padding: 10px;
+        background: #ffffff !important;
     }
     
     .navbar .navbar-brand {
@@ -202,6 +195,9 @@ a:focus {
     .navbar .navbar-nav {
         margin-top: 15px;
     }
+    .navbar .navbar-nav a:hover{
+     color: #D90D0D;
+    }
     
     .navbar a.nav-link {
         padding: 5px;
@@ -210,6 +206,11 @@ a:focus {
     .navbar .dropdown-menu {
         box-shadow: none;
     }
+    .logo {
+        width: 80vw;
+    }
+        
+    
 }
 
 
