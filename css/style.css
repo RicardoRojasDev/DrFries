@@ -208,10 +208,10 @@ a:focus {
         box-shadow: none;
     }
     .logo {
-        width: 80vw;
+        width: 70vw;
     }
     .navbar.nav-sticky {
-        background: #D90D0D !important;
+        background: #ffffffb9 !important;
     }
 }
 
