@@ -119,11 +119,6 @@ a:focus {
     
 }
 
-.navbar .navbar-brand img {
-
-    max-height: 50px;
-}
-
 .navbar .dropdown-menu {
     margin-top: 0;
     border: 0;
@@ -240,6 +235,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    
 }
 
 .carousel .carousel-img {
@@ -276,6 +272,7 @@ a:focus {
     justify-content: center;
     flex-direction: column;
     z-index: 2;
+    margin-top: 10%;
 }
 
 .carousel .carousel-text h1 {
