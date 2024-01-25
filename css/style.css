@@ -206,9 +206,7 @@ a:focus {
     .navbar .dropdown-menu {
         box-shadow: none;
     }
-    .logo {
-        width: 70vw;
-    }
+   
     .navbar.nav-sticky {
         background: #ffffff !important;
     }
