@@ -369,6 +369,8 @@ a:focus {
     }
     .carousel-text {
         margin-top: 15%;
+        padding: 0 2vw;
+
     }
 }
 
