@@ -184,9 +184,9 @@ a:focus {
     .navbar {
         position:absolute;
         padding: 5px;
-        background: rgba(255, 255, 255, 0.142) !important;
+        background: rgba(255, 255, 255, 0.078) !important;
         width: 100%;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.42);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.568);
     }
     
     .navbar .navbar-brand {
