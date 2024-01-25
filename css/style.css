@@ -198,7 +198,7 @@ a:focus {
         margin-top: 15px;
         background-color: white;
         border-radius: 3%;
-        padding: 4%;
+        margin: 4%;
     }
     .navbar .navbar-nav a:hover{
      color: #D90D0D;
