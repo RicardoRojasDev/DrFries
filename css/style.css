@@ -191,6 +191,7 @@ a:focus {
     .navbar .navbar-brand {
         color: #ffffff;
         margin-left: 5%;
+        background-color: transparent;
     }
     
     .navbar .navbar-nav {
