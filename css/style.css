@@ -107,7 +107,10 @@ a:focus {
     width: 100%;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
 }
+.navbar .navbar-brand img {
 
+    max-height: 50px;
+}
 .navbar .navbar-brand {
     margin: 0;
     color: #ffffff;
@@ -272,7 +275,7 @@ a:focus {
     justify-content: center;
     flex-direction: column;
     z-index: 2;
-    margin-top: 10%;
+    
 }
 
 .carousel .carousel-text h1 {
