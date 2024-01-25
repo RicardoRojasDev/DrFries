@@ -229,6 +229,9 @@ a:focus {
     min-height: 400px;
     background: #ffffff;
 }
+.carousel-parrafo {
+    padding: 0 4%;
+}
 
 .carousel .container-fluid {
     padding: 0;
