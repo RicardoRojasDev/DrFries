@@ -3,7 +3,7 @@
 /*******************************/
 body {
     color: #757575;
-    background: #ffffff;
+    background: transparent;
     font-family: 'open sans', sans-serif;
 }
 
@@ -56,7 +56,7 @@ a:focus {
 }
 
 .container-fluid {
-    max-width: 1366px;
+    max-width: 1920px;
 }
 
 .back-to-top {
