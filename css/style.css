@@ -195,15 +195,16 @@ a:focus {
         margin-left: 5vw;
     }
     .navbar .navbar-nav {
-        margin-top: 50vh;
-        background-color: white;
-        border-radius: 3%;
+        margin-top: 5vh ;
+        border-radius: 50px;
+        background: #ffffff;
+        box-shadow:  20px 20px 60px #870517,-20px -20px 60px #b7071f;
     }
     .navbar .navbar-nav a:hover{
      color: #D90D0D;
     }
     .navbar a.nav-link {
-        padding: 50px;
+        padding: 10px;
     }
     .navbar .dropdown-menu {
         box-shadow: none;
@@ -212,7 +213,7 @@ a:focus {
         background: #ffffff !important;
     }
     .navbar .navbar-brand img {
-    max-height: 6vh;
+        max-height: 6vh;
 }
 }
 
