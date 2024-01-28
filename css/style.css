@@ -1,6 +1,7 @@
 /*******************************/
 /********* General CSS *********/
 /*******************************/
+
 body {
     color: #757575;
     background: transparent;
@@ -94,6 +95,7 @@ a:focus {
 /**********************************/
 /*********** Nav Bar CSS **********/
 /**********************************/
+
 .navbar {
     position: relative;
     transition: .5s;
@@ -124,7 +126,9 @@ a:focus {
     border: 0;
     background: #948e8e2f;
 }
+
 /* Pantallas Grandes Mas De Tablet */
+
 @media (min-width: 992px) {
     .navbar {
         position: absolute;
@@ -176,7 +180,9 @@ a:focus {
         max-height: 50px;
     }
 }
+
 /* Pantallas Medianas Tablet y Celulares */
+
 @media (max-width: 991.98px) {   
     .navbar {
         position:absolute;
@@ -185,11 +191,9 @@ a:focus {
         width: 100%;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.568);
     }
-    
     .navbar .navbar-brand {
         margin-left: 5vw;
     }
-    
     .navbar .navbar-nav {
         margin-top: 50vh;
         background-color: white;
@@ -198,29 +202,24 @@ a:focus {
     .navbar .navbar-nav a:hover{
      color: #D90D0D;
     }
-    
     .navbar a.nav-link {
-        padding: 5px;
+        padding: 50px;
     }
-    
     .navbar .dropdown-menu {
         box-shadow: none;
     }
-   
     .navbar.nav-sticky {
         background: #ffffff !important;
-    
     }
-}
-.navbar .navbar-brand img {
-
+    .navbar .navbar-brand img {
     max-height: 6vh;
 }
-
+}
 
 /*******************************/
 /********** Hero CSS ***********/
 /*******************************/
+
 .carousel {
     position: relative;
     width: 100%;
@@ -243,8 +242,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
-    
+    flex-direction: column;    
 }
 
 .carousel .carousel-img {
@@ -280,8 +278,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    z-index: 2;
-    
+    z-index: 2;   
 }
 
 .carousel .carousel-text h1 {
