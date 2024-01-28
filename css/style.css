@@ -204,7 +204,7 @@ a:focus {
      color: #D90D0D;
     }
     .navbar a.nav-link {
-        padding: 10px;
+        padding: 1vh 5vh;
     }
     .navbar .dropdown-menu {
         box-shadow: none;
