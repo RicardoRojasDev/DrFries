@@ -199,6 +199,7 @@ a:focus {
         background: #e0e0e0;
         box-shadow:  -20px 20px 60px #bebebe,
              20px -20px 60px #ffffff;
+        margin-top: 10vh;
     }
     .navbar .navbar-nav a:hover{
      color: #D90D0D;
