@@ -192,11 +192,9 @@ a:focus {
     }
     
     .navbar .navbar-nav {
-        margin-top: 5vh;
+        margin-top: 50vh;
         background-color: white;
         border-radius: 3%;
-        margin: 4%;
-        padding: 4%;
     }
     .navbar .navbar-nav a:hover{
      color: #D90D0D;
