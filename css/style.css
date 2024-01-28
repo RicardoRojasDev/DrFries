@@ -180,15 +180,14 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         position:absolute;
-        padding: 5px;
-        background: rgba(255, 255, 255, 0.227) !important;
+        padding: 10px;
+        background: rgba(255, 255, 255, 0.327) !important;
         width: 100%;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.568);
     }
     
     .navbar .navbar-brand {
-        color: #ffffff;
-        margin-left: 5%;
+        margin-left: 5vw;
     }
     
     .navbar .navbar-nav {
@@ -215,7 +214,7 @@ a:focus {
 }
 .navbar .navbar-brand img {
 
-    max-height: 50px;
+    max-height: 10vh;
 }
 
 
