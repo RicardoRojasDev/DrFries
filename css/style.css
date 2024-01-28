@@ -186,7 +186,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         position:absolute;
-        padding: 10px;
+        padding: 0px 10px 0px 0px;
         background: rgba(255, 255, 255, 0.327) !important;
         width: 100%;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.568);
@@ -199,13 +199,13 @@ a:focus {
         background: #e0e0e0;
         box-shadow:  -20px 20px 60px #bebebe,
              20px -20px 60px #ffffff;
-        margin-top: 10vh;
+        margin-top: 7vh;
     }
     .navbar .navbar-nav a:hover{
      color: #D90D0D;
     }
     .navbar a.nav-link {
-        padding: 1vh 5vh;
+        padding: 1vh 2vh 0vh 2vh;
     }
     .navbar .dropdown-menu {
         box-shadow: none;
