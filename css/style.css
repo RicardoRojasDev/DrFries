@@ -181,23 +181,22 @@ a:focus {
     }
 }
 
-/* Pantallas Medianas Tablet y Celulares */
+/* Pantallas
+ Tablet y Celulares */
 
 @media (max-width: 991.98px) {   
     .navbar {
         position:absolute;
-        background: rgba(255, 255, 255, 0.327) !important;
+        background: rgba(255, 255, 255, 0.505) !important;
         width: 100%;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.881);
     }
     .navbar .navbar-brand {
         margin-left: 5vw;
     }
     .navbar .navbar-nav {
-        border-radius: 50px;
+        border-radius: 1vh;
         background: #e0e0e0;
-        box-shadow:  -5px 5px 10px #707070,
-             5px -5px 10px #ffffff;
         margin: 3vh 0 1vh 0;
         padding: 1vh 2vw 1vh 2vw;
     }
