@@ -449,7 +449,6 @@ a:focus {
     font-size: 20px;
 }
 
-+
 .section-header h2 {
     margin: 0;
     position: relative;
@@ -471,7 +470,7 @@ a:focus {
     }
     .modoOscuro {
         width: 10vw;
-        display: block;
+        
     }
 
     body {
