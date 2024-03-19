@@ -432,7 +432,11 @@ a:focus {
         font-size: 18px;
     }
 }
-
+@media (max-width: 500px) {
+    .page-header {
+        padding: 100px 0 90px 0;
+    }
+}
 
 /*******************************/
 /******* Section Header ********/
