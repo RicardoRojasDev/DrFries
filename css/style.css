@@ -130,6 +130,12 @@ a:focus {
 /* Pantallas Grandes Mas De Tablet */
 
 @media (min-width: 992px) {
+
+#sandwichs , #snacks , {
+
+    display: none;
+}
+
     .navbar {
         position: absolute;
         width: 100%;
