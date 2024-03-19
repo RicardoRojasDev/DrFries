@@ -131,9 +131,10 @@ a:focus {
 
 @media (min-width: 992px) {
 
-#sandwichs , #snacks , {
+    #sandwichs , #snacks {
 
-    display: none;
+    display: none}
+
 }
 
     .navbar {
