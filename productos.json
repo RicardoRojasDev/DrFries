@@ -1,0 +1,151 @@
+[
+  {
+      "categoria": "Sándwich",
+      "productos": [
+          {
+              "id": 1,
+              "nombre": "Clásico",
+              "descripcion": "Proteina, tomate, lechuga y mayonesa casera.",
+              "precio": 5000,
+              "imagen": "img/menu/clasico_sandwich.jpg",
+              "ingredientes": [
+                  "Proteina",
+                  "Tomate",
+                  "lechuga",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 2,
+              "nombre": "Barros luco",
+              "descripcion": "Carne, queso fundido.",
+              "precio": 5400,
+              "imagen": "img/menu/barrosluco.jpg",
+              "ingredientes": [
+                  "carne",
+                  "queso"
+              ]
+          },
+          {
+              "id": 3,
+              "nombre": "Chacarero",
+              "descripcion": "Proteina, tomate, poroto verde, aji, mayonesa casera .",
+              "precio": 5600,
+              "imagen": "img/menu/chacarero_sandwich.jpg",
+              "ingredientes": [
+                  "proteina",
+                  "tomate",
+                  "poroto verde",
+                  "aji",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 4,
+              "nombre": "Palta mayo",
+              "descripcion": "Proteina, palta , mayonesa casera.",
+              "precio": 5600,
+              "imagen": "img/menu/paltamayo_sandwich.jpg",
+              "ingredientes": [
+                  "proteina",
+                  "palta",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 5,
+              "nombre": "Italiano",
+              "descripcion": "Proteina, tomate , palta, mayonesa casera.",
+              "precio": 5800,
+              "imagen": "img/menu/italiano_sandwich.jpg",
+              "ingredientes": [
+                  "proteina",
+                  "tomate",
+                  "palta",
+                  "mayonesa casera"
+              ]
+          }
+      ]
+  },
+  {
+      "categoria": "Completos",
+      "productos": [
+          {
+              "id": 6,
+              "nombre": "Hotdog",
+              "descripcion": "Pan, vienesa y mayonesa casera.",
+              "precio": 1800,
+              "imagen": "img/menu/hotdog.jpg",
+              "ingredientes": [
+                  "vienesa",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 7,
+              "nombre": "Tomate mayo",
+              "descripcion": "Pan, vienesa, tomate y mayonesa casera.",
+              "precio": 2300,
+              "imagen": "img/menu/tomatemayo_completo.jpg",
+              "ingredientes": [
+                  "vienesa",
+                  "tomate",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 8,
+              "nombre": "Alemán",
+              "descripcion": "Pan, vienesa, chucrut, pepinillos tomate y mayonesa casera.",
+              "precio": 2600,
+              "imagen": "img/menu/aleman_completo.jpg",
+              "ingredientes": [
+                  "vienesa",
+                  "chucrut",
+                  "pepinillos",
+                  "tomate",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 9,
+              "nombre": "Palta mayo",
+              "descripcion": "Pan, vienesa, palta y mayonesa casera.",
+              "precio": 2700,
+              "imagen": "img/menu/paltamayo_completo.jpg",
+              "ingredientes": [
+                  "vienesa",
+                  "palta",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 10,
+              "nombre": "Italiano",
+              "descripcion": "Pan, vienesa, tomate, palta y mayonesa casera.",
+              "precio": 2900,
+              "imagen": "img/menu/italiano_completo.jpg",
+              "ingredientes": [
+                  "vienesa",
+                  "tomate",
+                  "palta",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 11,
+              "nombre": "Dinámico",
+              "descripcion": "Pan, vienesa, chucrut, tomate, palta y mayonesa casera.",
+              "precio": 2900,
+              "imagen": "img/menu/dinamico_completo.jpg",
+              "ingredientes": [
+                  "vienesa",
+                  "chucrut",
+                  "tomate",
+                  "palta",
+                  "mayonesa casera"
+              ]
+          }
+      ]
+  }
+]
