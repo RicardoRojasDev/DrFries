@@ -1,31 +1,116 @@
-#menu-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    max-width: 1200px;
-    margin: 0 auto;
+.menu-container {
+
+  text-align: center;
+  
+}
+  
+
+  .categoria-completos {
+
+    width: 370PX;
+    margin: 3% 2% 0% 2%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+    gap: 10px;
+    text-align: center;
+  
+    
   }
   
-  .menu-item {
-    border: 1px solid #ccc;
-    margin: 10px;
-    text-align: center;
-    border-radius: 10px;
-    width: 45%;
+  .contenido-text {
 
-    padding: 20px;
-    flex: 1;
-    min-width: 200px;
-    box-sizing: border-box;
+    background-color: #ffffff;
+    height: 110px;
+  }
+
+  .menu-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 4%;
+    text-align: center;
+    width: 175PX;
+    height: 360PX;
+    font-size: 0.7rem;
+    ;
+
   }
   
   .menu-item img {
-    max-width: 100%;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
     border-radius: 10px;
   }
   
-  @media (max-width: 508px) {
-    .menu-item {
-      width: 100%;
-    }
+  .menu-item h3 {
+    font-size: 1.2rem;
+    margin: 10px 0;
   }
+  
+  .menu-item p {
+    margin: 5px 0;
+  }
+  
+  .menu-item button {
+    padding: 10px 20px;
+    background-color: #f05f40;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .menu-item button:hover {
+    background-color: #e04f30;
+  }
+
+  /* Estilos generales para los filtros */
+.filters {
+  gap: 1rem;
+  margin: 1rem 0rem 0.5rem 0.5rem ;
+  display: grid;
+  grid-auto-flow: column;
+  width: 380px;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 10px;
+  
+}
+
+
+  ::-webkit-scrollbar {
+    display: none;
+}
+
+/* Estilos para cada casilla de verificación */
+.filters label {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  min-width: auto !important;
+  padding: 10px 20px;
+  border-radius: 10px !important;
+;
+
+}
+
+.filters input[type="checkbox"] {
+  margin-right: 0.5rem;
+  accent-color: #FF0000; /* Cambia el color del checkmark */
+}
+
+/* Estilos para el estado hover */
+.filters label:hover {
+  background-color: #f0f0f0;
+}
+#search {
+  margin: 0 0.7rem;
+  padding: 0.5rem;
+  border-radius: 10px;
+  width: 95%;
+}

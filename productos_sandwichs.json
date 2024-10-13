@@ -1,0 +1,70 @@
+[
+  {
+      "categoria": "Sándwich",
+      "productos": [
+          {
+              "id": 1,
+              "nombre": "Clásico",
+              "descripcion": "Proteina, tomate, lechuga y mayonesa casera.",
+              "precio": 5000,
+              "imagen": "img/menu/clasico_sandwich.jpg",
+              "ingredientes": [
+                  "Proteina",
+                  "Tomate",
+                  "lechuga",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 2,
+              "nombre": "Barros luco",
+              "descripcion": "Carne, queso fundido.",
+              "precio": 5400,
+              "imagen": "img/menu/barrosluco.jpg",
+              "ingredientes": [
+                  "carne",
+                  "queso"
+              ]
+          },
+          {
+              "id": 3,
+              "nombre": "Chacarero",
+              "descripcion": "Proteina, tomate, poroto verde, aji, mayonesa casera .",
+              "precio": 5600,
+              "imagen": "img/menu/chacarero_sandwich.jpg",
+              "ingredientes": [
+                  "proteina",
+                  "tomate",
+                  "poroto verde",
+                  "aji",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 4,
+              "nombre": "Palta mayo",
+              "descripcion": "Proteina, palta , mayonesa casera.",
+              "precio": 5600,
+              "imagen": "img/menu/paltamayo_sandwich.jpg",
+              "ingredientes": [
+                  "proteina",
+                  "palta",
+                  "mayonesa casera"
+              ]
+          },
+          {
+              "id": 5,
+              "nombre": "Italiano",
+              "descripcion": "Proteina, tomate , palta, mayonesa casera.",
+              "precio": 5800,
+              "imagen": "img/menu/italiano_sandwich.jpg",
+              "ingredientes": [
+                  "proteina",
+                  "tomate",
+                  "palta",
+                  "mayonesa casera"
+              ]
+          }
+      ]
+  }
+]
