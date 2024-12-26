@@ -81,40 +81,48 @@
 
 
         <!-- Menu Start -->
-        <div class="container-filtros"></div>
             <div class="filters">
-                <label>
-                  <input type="checkbox" value="Sandwichs"> Sandwich
-                </label>
-                <label>
-                  <input type="checkbox" value="Completos"> Completos
+                <label >
+                    <input class="filter-button" type="checkbox" data-filter="all" >Todos
                 </label>
                 <label>
-                    <input type="checkbox" value="Papas fritas"> Papas fritas
+                  <input class="filter-button" type="checkbox" data-filter="sandwichs" value="sandwichs"> Sandwichs
                 </label>
                 <label>
-                    <input type="checkbox" value="Combos Crispy"> Almuerzos
+                  <input class="filter-button" type="checkbox" data-filter="completos" value="completos"> Completos
+                </label>
+                <label>
+                    <input class="filter-button" type="checkbox" value="Papas fritas"> Papas fritas
+                </label>
+                <label>
+                    <input class="filter-button" type="checkbox" value="Combos Crispy"> Combos
                 </label>
                 <label >
-                    <input type="checkbox" value="Pollo Crispy"> Pollo Crispy
+                    <input class="filter-button" type="checkbox" value="Pollo Crispy"> Pollo Crispy
                 </label>
                 <label >
-                    <input type="checkbox" value="Promociones"> Promociones
+                    <input class="filter-button" type="checkbox" value="Promociones"> Promociones
                 </label>
                 <label >
-                    <input type="checkbox" value="Bebidas"> Bebidas
+                    <input class="filter-button" type="checkbox" value="Bebidas"> Bebidas
                 </label>
                 <label >
-                    <input type="checkbox" value="Acompañamientos"> Acompañamientos
+                    <input class="filter-button" type="checkbox" value="Acompañamientos"> Acompañamientos
                 </label>
                 
             </div>
-            
               <input type="text" id="search" placeholder="Buscar...">
 
-        <div id="menu-container">
+<div class="productos-container">
+    <div id="menu-container-completos"></div>
             
-        </div>
+    </div>
+    <div id="menu-container-sandwichs">
+            
+    </div>
+</div>
+
+        
     
         <script src="js/script.js"></script>
     

@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Todos",
+        "valorFiltro": "todos"
+    },
+    {
+        "nombre": "Completos",
+        "valorFiltro": "completos"
+    },
+    {
+        "nombre": "Sandwichs",
+        "valorFiltro": "sandwichs"
+    },
+    {
+        "nombre": "Papas Fritas",
+        "valorFiltro": "papasFritas"
+    },
+    {
+        "nombre": "Combos Chicken",
+        "valorFiltro": "combosChicken"
+    },
+    {
+        "nombre": "Promociones",
+        "valorFiltro": "promociones"
+    },
+    {
+        "nombre": "Acompañamientos",
+        "valorFiltro": "acompanamientos"
+    },
+    {
+        "nombre": "Bebidas",
+        "valorFiltro": "bebidas"
+    }
+]

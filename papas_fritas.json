@@ -1,0 +1,101 @@
+[
+    {
+      "categoria": "Papas",
+      "productos": [
+          {
+              "id": 12,
+              "nombre": "Papa XS",
+              "descripcion": "Papas fritas pequeñas",
+              "precio": 1300,
+              "imagen": "img/menu/papas_xs.jpg",
+              "ingredientes": [
+                  "papas fritas"
+              ]
+          },
+          {
+              "id": 13,
+              "nombre": "Papas L",
+              "descripcion": "Papas fritas mediana",
+              "precio": 3400,
+              "imagen": "img/menu/papas_l.jpg",
+              "ingredientes": [
+                  "papas fritas"
+              ]
+          },
+          {
+              "id": 14,
+              "nombre": "Papas XL",
+              "descripcion": "Papas fritas Grandes .",
+              "precio": 5500,
+              "imagen": "img/menu/papas_xl.jpg",
+              "ingredientes": [
+                  "papas fritas"
+              ]
+          },
+          {
+              "id": 15,
+              "nombre": "Cono S",
+              "descripcion": "Cono papas fritas S.",
+              "precio": 2600,
+              "imagen": "img/menu/cono_s.jpg",
+              "ingredientes": [
+                  "papas fritas"
+              ]
+          },
+          {
+              "id": 16,
+              "nombre": "Cono M",
+              "descripcion": "Cono papas fritas M",
+              "precio": 3600,
+              "imagen": "img/menu/cono_m.jpg",
+              "ingredientes": [
+                  "papas fritas"
+              ]
+          },
+          {
+              "id": 17,
+              "nombre": "Papas fritas tocino Cheddar",
+              "descripcion": "Papas bañadas en aderezo cheddar y tocino crocante.",
+              "precio": 5800,
+              "imagen": "img/menu/tocino_cheddar.jpg",
+              "ingredientes": [
+                  "papas fritas",
+                  "cheddar",
+                  "tocino"
+              ]
+          },
+          {
+            "id": 18,
+            "nombre": "Chorrillana Familiar",
+            "descripcion": "Papas bañadas en aderezo cheddar y tocino crocante.",
+            "precio": 17500,
+            "imagen": "img/menu/chorrillana_familiar.jpg",
+            "ingredientes": [
+                "papas fritas",
+                "cebolla caramelizada",
+                "churrasco",
+                "queso fundido",
+                "vienesas",
+                "huevos",
+                "mayonesa casera"
+            ]
+            },
+        {
+            "id": 19,
+            "nombre": "Pichanga familiar",
+            "descripcion": "Papas bañadas en aderezo cheddar y tocino crocante.",
+            "precio": 5800,
+            "imagen": "img/menu/pichanga_familiar.jpg",
+            "ingredientes": [
+                "papas fritas",
+                "churrasco",
+                "vienesas",
+                "tomate",
+                "palta",
+                "huevos",
+                "mayonesa casera"
+            ]
+        }
+      ]
+  }
+]
